@@ -136,7 +136,7 @@ For this reason, I am committed to promoting cybersecurity awareness through edu
 
 ## 📫 Contact
 
-📧 Email: your-email@example.com
+📧 Email: siem.soc.sentinel@gmail.com
 
 💼 LinkedIn: *(coming soon)*
 
